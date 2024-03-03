@@ -1,0 +1,385 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1709489471165239, "dur":85, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709489471165439, "dur":73684, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709489471239146, "dur":284, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709489471239462, "dur":51, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1709489471239514, "dur":983, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709489471240613, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1709489471240788, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1709489471240908, "dur":191, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1709489471241148, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1709489471241224, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1709489471241336, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1709489471241395, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1709489471241522, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1709489471241701, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1709489471241825, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1709489471241933, "dur":189, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1709489471242135, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1709489471242794, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":0, "ts":1709489471242932, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1709489471243076, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1709489471243170, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471243295, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471243435, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471243522, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471243668, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471244000, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471244144, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471244214, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471244376, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471244534, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471244642, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471244782, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471245092, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471245285, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471245451, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471245570, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471245719, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471245878, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471246102, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471246218, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471246301, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471246359, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471246419, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471246602, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471246761, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471246881, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471247017, "dur":134, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471247163, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471247348, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471247417, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471247490, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471247633, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471247823, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471247985, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248103, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248203, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248274, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248428, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248528, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248602, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248665, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248810, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471248936, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471249077, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471249186, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471249291, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471249451, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471249595, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1709489471249713, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur.exe" }}
+,{ "pid":12345, "tid":0, "ts":1709489471249827, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709489471249977, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1709489471250090, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1709489471250222, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1709489471250292, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1709489471250452, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1709489471250751, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1709489471250890, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1709489471240586, "dur":10506, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709489471251097, "dur":576960, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709489471828059, "dur":669, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709489471829031, "dur":8090, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1709489471241529, "dur":9590, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709489471251128, "dur":18897, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709489471323427, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709489471315824, "dur":7759, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1709489471323609, "dur":629, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709489471324336, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1709489471325041, "dur":88, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471325888, "dur":450, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471326342, "dur":327, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471326673, "dur":2417, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471329099, "dur":2132, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471331241, "dur":2007, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471333256, "dur":776, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471334038, "dur":769, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471334822, "dur":1690, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471336521, "dur":392, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Windows\\Desktop\\UNITY ETM\\olsa ne gzel olur\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709489471337097, "dur":375, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player89ff0824-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1709489471323595, "dur":14258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709489471338671, "dur":191, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709489471345810, "dur":464586, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709489471824307, "dur":299, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709489471824304, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709489471824658, "dur":3299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1709489471241716, "dur":9455, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471251178, "dur":2867, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471254046, "dur":16006, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471270122, "dur":1151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1709489471270059, "dur":1218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1709489471318763, "dur":22928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1709489471342037, "dur":816, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471342881, "dur":13536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471362579, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471356655, "dur":6099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471362959, "dur":9290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471381131, "dur":558, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471372431, "dur":9308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471382330, "dur":7985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471390514, "dur":6433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471397187, "dur":7036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471414596, "dur":124, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471404661, "dur":10103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471420576, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471415027, "dur":5678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471421322, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471421423, "dur":7571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471438223, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471429213, "dur":9139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471447167, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471438542, "dur":8796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471447555, "dur":11074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471459629, "dur":6204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709489471520875, "dur":15207, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471466042, "dur":70089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1709489471568058, "dur":9911, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471537109, "dur":40946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1709489471591451, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709489471578632, "dur":12952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1709489471591799, "dur":236216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471241645, "dur":9491, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471251161, "dur":2820, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471253982, "dur":16054, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471270220, "dur":318, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1709489471270060, "dur":480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1709489471290406, "dur":9347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1709489471299911, "dur":430, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1709489471299905, "dur":438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1709489471306611, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471301640, "dur":5068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1709489471306911, "dur":591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1709489471308508, "dur":7014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1709489471315681, "dur":354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1709489471339757, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471317314, "dur":22536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1709489471340124, "dur":16828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471370504, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471357397, "dur":13289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471370848, "dur":9044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471380085, "dur":116, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471386890, "dur":126, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471380213, "dur":6895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471387329, "dur":5754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471403627, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471393904, "dur":9948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471404086, "dur":5707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471420994, "dur":168, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471410079, "dur":11113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471421356, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471433181, "dur":184, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471421427, "dur":12345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471441491, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471434419, "dur":7214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471441999, "dur":9451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471451701, "dur":8560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471460403, "dur":335, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471460398, "dur":345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471460759, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471573451, "dur":5370, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709489471460821, "dur":121877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709489471585436, "dur":242582, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471241813, "dur":9373, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471251192, "dur":2626, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471253820, "dur":16210, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471270061, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1709489471270115, "dur":2149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471274073, "dur":8185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1709489471282273, "dur":455, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1709489471282267, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1709489471283985, "dur":4469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1709489471288619, "dur":410, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1709489471288614, "dur":418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1709489471289987, "dur":6483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1709489471296656, "dur":459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1709489471303949, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471300139, "dur":3905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1709489471304203, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1709489471304684, "dur":6278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1709489471311165, "dur":461, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471311159, "dur":470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471311864, "dur":40018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471352047, "dur":6431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471358599, "dur":10962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471369813, "dur":6914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471376929, "dur":6673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471383888, "dur":7446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471399761, "dur":184, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471391495, "dur":8480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471400641, "dur":9141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471410074, "dur":9618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471420015, "dur":7428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471427781, "dur":8360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471436283, "dur":6285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471442724, "dur":8076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471451012, "dur":7759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471458976, "dur":5671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709489471464808, "dur":43176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1709489471520923, "dur":15212, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471508647, "dur":27514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1709489471551885, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471536693, "dur":15343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/level2.resS" }}
+,{ "pid":12345, "tid":4, "ts":1709489471552387, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1709489471570845, "dur":7464, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471552485, "dur":25847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1709489471584867, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709489471578612, "dur":6806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1709489471585665, "dur":242362, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471241878, "dur":9321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471251205, "dur":2586, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471253792, "dur":16248, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471270240, "dur":352, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1709489471270060, "dur":534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1709489471317835, "dur":19416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1709489471337539, "dur":14087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471351804, "dur":5950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471357914, "dur":11686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471370356, "dur":6652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471377155, "dur":6258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471383581, "dur":7297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471399021, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471391236, "dur":7872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471399430, "dur":7177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471406750, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471406746, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471406894, "dur":9295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471417068, "dur":6270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471432448, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471423660, "dur":8895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471432854, "dur":7142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471440182, "dur":7625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471456566, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471448111, "dur":8566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471456930, "dur":6865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709489471463984, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":5, "ts":1709489471511867, "dur":162, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471464128, "dur":47971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":5, "ts":1709489471523143, "dur":13290, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471512779, "dur":23673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1709489471548763, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471536649, "dur":12252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1709489471568055, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471549173, "dur":19078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1709489471568442, "dur":9630, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471589647, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709489471578104, "dur":11660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1709489471590148, "dur":237914, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471241929, "dur":9316, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471251249, "dur":2898, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471254148, "dur":15991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471270143, "dur":1160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1709489471344687, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471319967, "dur":24828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1709489471345077, "dur":11724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471356967, "dur":6102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471363281, "dur":7882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471380127, "dur":195, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471371292, "dur":9079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471380568, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471389579, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471380704, "dur":8969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471389864, "dur":5017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471395072, "dur":6374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471401717, "dur":7382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471418160, "dur":663, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471409286, "dur":9577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471419124, "dur":606, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471420014, "dur":7421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471427626, "dur":8487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471436287, "dur":7688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471454768, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471444196, "dur":10705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471455207, "dur":10080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709489471465656, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471507878, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471465754, "dur":42222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":6, "ts":1709489471521870, "dur":14337, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709489471508200, "dur":28031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1709489471536701, "dur":71216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1709489471608086, "dur":219938, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471242029, "dur":9230, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471251264, "dur":2626, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471253891, "dur":16155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471270060, "dur":471, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1709489471275247, "dur":8036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1709489471283393, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1709489471288697, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471284707, "dur":4067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1709489471289001, "dur":402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1709489471290025, "dur":10628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1709489471300803, "dur":367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1709489471306612, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471301666, "dur":5063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1709489471306919, "dur":539, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471306913, "dur":549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471308429, "dur":7100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471316765, "dur":21652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471338701, "dur":18275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471368119, "dur":161, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471357257, "dur":11068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471368769, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471378382, "dur":271, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471368845, "dur":9888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471379886, "dur":420, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471380387, "dur":9509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471390058, "dur":7468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471397797, "dur":8878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471406835, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471406903, "dur":7950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471415044, "dur":7488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471435053, "dur":900, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471422752, "dur":13259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471436249, "dur":9179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471459573, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709489471445647, "dur":14007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471459825, "dur":5994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709489471465981, "dur":138949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1709489471605100, "dur":222921, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471242124, "dur":9168, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471251293, "dur":2427, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471253721, "dur":1579, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471255301, "dur":14741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471270061, "dur":461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1709489471275348, "dur":7337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1709489471282867, "dur":410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709489471284096, "dur":4878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709489471289146, "dur":344, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709489471289141, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709489471290049, "dur":4995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709489471295245, "dur":466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709489471296161, "dur":6860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709489471303209, "dur":435, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.14f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709489471303203, "dur":445, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709489471304030, "dur":6921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709489471311186, "dur":163, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":8, "ts":1709489471311184, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Windows/Documents/olsa ne gzel olur.exe" }}
+,{ "pid":12345, "tid":8, "ts":1709489471311391, "dur":5409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur.exe" }}
+,{ "pid":12345, "tid":8, "ts":1709489471317230, "dur":20675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471338257, "dur":13640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471352453, "dur":5990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471358592, "dur":11323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471370109, "dur":4658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471374961, "dur":7089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471382294, "dur":7757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471390210, "dur":5630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471396041, "dur":6347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471402575, "dur":6382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471409176, "dur":7237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471416609, "dur":6090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471435128, "dur":861, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471422860, "dur":13213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471436251, "dur":6494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471442949, "dur":9673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471452797, "dur":5995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471458992, "dur":5410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709489471507884, "dur":1316, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471464691, "dur":44688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1709489471521721, "dur":14452, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471509587, "dur":26609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1709489471536882, "dur":4518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1709489471541622, "dur":18452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/level1.resS" }}
+,{ "pid":12345, "tid":8, "ts":1709489471573390, "dur":5405, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709489471560323, "dur":18684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Windows/Documents/olsa ne gzel olur_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1709489471579186, "dur":248872, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709489471848641, "dur":4934, "ph":"X", "name": "ProfilerWriteOutput" }
+,
